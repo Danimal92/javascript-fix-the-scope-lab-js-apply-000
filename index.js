@@ -33,4 +33,4 @@ var theFunk = funkyFunction()
 
 var funkResult = theFunk()
 
-funkResult()
+funkResult()()
